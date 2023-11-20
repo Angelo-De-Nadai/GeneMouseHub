@@ -1,4 +1,4 @@
-# Management-Animal-Farm
+# GeneMouseHub
 
 The "Algorithms and Data Structures" project is based on an animal facility where transgenic mice are bred, reflecting the characteristics described in the "ProjectRules.pdf" document.
 
